@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     padding: 0px;
     margin: 0px;
@@ -43,4 +44,9 @@ section {
     text-align: center;
     text-decoration: none;
     text-transform: uppercase;
+=======
+body {
+    background: linear-gradient(#100078, #080058);
+    background-repeat: no-repeat;
+>>>>>>> a67330b0d354aedea7c34677f90e72fe496ff79e
 }
