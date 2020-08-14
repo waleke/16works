@@ -1,3 +1,46 @@
-body {
-    background: black;
+* {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+html {font-size: 10px;}
+
+div {
+    outline: 1px solid yellow;
+}
+
+nav {
+    display: block;
+    padding: 24px;
+    height: 50px;
+}
+
+#logo {
+    border: 1px solid yellow;
+    display: block;
+    float: right;
+}
+
+section {
+    height: 100vh;
+}
+
+.home {
+    background: linear-gradient(#100078, #080058 90%);
+    background-repeat: no-repeat;
+}
+
+.rq-btn {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+    padding: 18px;
+    background: rgba(255,255,255,0.15);
+    font-size: 2.8rem;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
 }
